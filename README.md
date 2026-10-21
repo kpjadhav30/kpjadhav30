@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Bruno Agentic AI Compony Managemet System<br>👯 I’m looking to collaborate on - AI and Deep Learning Models <br>🤝 I’m looking for help with - Python and AI <br>🌱 I’m currently learning - Backend in Python Specific<br>💬 Ask me about - Python & AI ML<br>⚡ Fun fact "Make it and Crack it"
+🔭 I’m currently working on - **Bruno Agentic AI Compony Managemet System**<br>👯 I’m looking to collaborate on - **AI and Deep Learning Models** <br>🤝 I’m looking for help with - **Python and AI** <br>🌱 I’m currently learning - **Backend in Python Specific** <br>💬 Ask me about - **Python & AI ML** <br>⚡ Fun fact **"Make it and Crack it"**
 
 
 ## 🌐 Socials:
